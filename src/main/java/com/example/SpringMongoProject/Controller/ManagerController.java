@@ -1,6 +1,5 @@
 package com.example.SpringMongoProject.Controller;
 
-import com.example.SpringMongoProject.Entity.Employee;
 import com.example.SpringMongoProject.Entity.Manager;
 import com.example.SpringMongoProject.Service.ManagerServices;
 import org.springframework.beans.factory.annotation.Autowired;

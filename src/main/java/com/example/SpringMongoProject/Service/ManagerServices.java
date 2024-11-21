@@ -1,7 +1,6 @@
 package com.example.SpringMongoProject.Service;
 
 import com.example.SpringMongoProject.Entity.Manager;
-import com.example.SpringMongoProject.Entity.Manager;
 import com.example.SpringMongoProject.Repo.ManagerRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
